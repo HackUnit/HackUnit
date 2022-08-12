@@ -1,7 +1,7 @@
 ## Hello, World! 
 ### I am HackUnit, and just like Luffy, I want to become King of the Pira...I mean Programmers! ###
 
-Currently I am still learning as much as I can. I dropped out of college a few years back since I thought I knew what I wanted, but really didn't. I've been spinning my wheels since...until recently when it was pointed out that I love computers and have always skirted around coding by learning HTML and CSS at a young age, and even brought an old family computer back to life with Kubuntu back in '06 and remember when KDE 4 came out a few years later.
+<!-- Currently I am still learning as much as I can. I dropped out of college a few years back since I thought I knew what I wanted, but really didn't. I've been spinning my wheels since...until recently when it was pointed out that I love computers and have always skirted around coding by learning HTML and CSS at a young age, and even brought an old family computer back to life with Kubuntu back in '06 and remember when KDE 4 came out a few years later.
 
 Up til this point, I had in my head that I needed to be a wiz at math, or that I didn't want to make a hobby I loved into a job.
 Basically, I was finding *every* excuse not to get into one of the most fascinating fields of work.  Not the technical support stuff, tho.
@@ -23,7 +23,7 @@ I found a great resource put out by IBM called [CognitiveClass.ai](https://cogni
 and an "Essentials" guide on **Blockchain** through that resource.
 
 I'm caught between wanting to be a fullstack developer, or DevOps, or maybe something else.
-All of it seems so fascinating. Except technical support. I'd rather code and never have to explain how to reset a password to someone who is incredibly fed up and thinks technology is the worst thing to happen since ever and is making it very clear they feel that way and in actuality they are being stubborn and wasting both our times.... Sorry, the customer service PTSD is kicking in...
+All of it seems so fascinating. Except technical support. I'd rather code and never have to explain how to reset a password to someone who is incredibly fed up and thinks technology is the worst thing to happen since ever and is making it very clear they feel that way and in actuality they are being stubborn and wasting both our times.... Sorry, the customer service PTSD is kicking in...-->
 
 I've become very interested in Web3 and Blockchain. Also, the Rust language looks incredibly cool. If anything, even if it doesn't go anywhere I love being a jack of all trades. Maybe to a detriment, but I hate not knowing something.
 
