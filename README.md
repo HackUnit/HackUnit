@@ -25,11 +25,9 @@ and an "Essentials" guide on **Blockchain** through that resource.
 I'm caught between wanting to be a fullstack developer, or DevOps, or maybe something else.
 All of it seems so fascinating. Except technical support. I'd rather code and never have to explain how to reset a password to someone who is incredibly fed up and thinks technology is the worst thing to happen since ever and is making it very clear they feel that way and in actuality they are being stubborn and wasting both our times.... Sorry, the customer service PTSD is kicking in...-->
 
-I've become very interested in Web3 and Blockchain. Also, the Rust language looks incredibly cool. If anything, even if it doesn't go anywhere I love being a jack of all trades. Maybe to a detriment, but I hate not knowing something.
+I hope to find collaborators or people who have been in the tech business for a while and maybe personally get some direction.  My goal is to become financially sound with a job in tech. Nothing too crazy. I enjoy living within my means.  I'm also a home body. Maybe it's from Homeschooling, but I have no problem working by myself. I try very hard to be a good self starter.
 
-I do hope to find collaborators or people who have been in the biz for a while and maybe personally get some direction.  My goal is to become financially sound with a job in tech. Nothing too crazy. I enjoy living within my means.  I'm also a home body. Maybe it's from Homeschooling, but I have no problem working by myself. I try very hard to be a good self starter.
-
-Hopefully, this will be an ever evolving page, and maybe less of me whining about what kind of job I crave.
+<!--Hopefully, this will be an ever evolving page, and maybe less of me whining about what kind of job I crave.-->
 I guess the other things to mention would be how to reach me, but I don't have anything secured like that...Maybe through here?
 
 Also, last but not least are the machines I'm running.  Nothing too crazy right now.
